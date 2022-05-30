@@ -1,0 +1,1 @@
+My first Go application: a simple API representing a library.
